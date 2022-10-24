@@ -46,3 +46,7 @@ updateState('job', 'instructor');
 console.log(state);
 updateState('loading', false);
 console.log(state);
+updateState('products', []);
+console.log(state);
+updateState('name', 'Peter');
+console.log(state);
